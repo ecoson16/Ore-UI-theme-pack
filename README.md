@@ -1,6 +1,6 @@
 # Ore UI theme for Prism Launcher
 
-Minecraft-inspired dark theme for Prism Launcher with vibrant emerald, diamond, amethyst accents. Scaled down padding, control heights, tabs, sidebar and scrollbars for comfortable use on smaller displays.
+Minecraft-inspired dark theme for Prism Launcher with vibrant emerald, diamond, and amethyst accents. Scaled-down padding, control heights, tabs, sidebar, and scrollbars for comfortable use on smaller displays.
 
 ---
 
@@ -10,8 +10,10 @@ Minecraft-inspired dark theme for Prism Launcher with vibrant emerald, diamond, 
 
 ## Font
 
-All Ore UI themes use [Monocraft](https://github.com/IdreesInc/Monocraft), a pixel font inspired by the Minecraft typeface. It is bundled in the [Ore UI - Font (Monocraft)](<Ore%20UI%20-%20Font%20(Monocraft)/>) folder.
+All Ore UI themes use **JetBrainsMono Nerd Font**. Install the font before applying a theme; otherwise, Prism Launcher falls back to your system monospace font.
 
-Install `Monocraft.ttf` from that folder before applying a theme, then restart Prism Launcher. Without it the launcher falls back to your system monospace font. See the folder's [README](<Ore%20UI%20-%20Font%20(Monocraft)/README.md>) for per-platform install steps and optional weights.
+1. Download [JetBrainsMono.zip from the latest Nerd Fonts release](https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.zip).
+2. Extract the archive and install `JetBrainsMonoNerdFont-Regular.ttf`. Install the bold and italic variants too if you want matching weights.
+3. Restart Prism Launcher.
 
-Monocraft is made by Idrees Hassan and distributed under the SIL Open Font License 1.1.
+See the [font installation guide](<Ore UI - Font (JetBrainsMono Nerd Font)/README.md>) for platform-specific instructions. The font is downloaded from the official Nerd Fonts release rather than duplicated in this repository.
